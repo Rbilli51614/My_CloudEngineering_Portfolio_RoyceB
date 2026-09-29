@@ -8,7 +8,7 @@ A curated list of hands-on projects demonstrating modern DevOps practices using 
 
 ## Projects
 - [AWS - GCP Infra with Terraform] (https://github.com/Rbilli51614/Multi-Cloud-Iaac.git)
-- [Hybrid Fleet DevOps Platform] (https:github.com/Rbilli51614/Hybrid-Fleet-Devops-Platform
+- [Hybrid Fleet DevOps Platform] (https:github.com/Rbilli51614/Hybrid-Fleet-Devops-Platform)
 - [Monitoring with Prometheus + Grafana] (https://
 - [Cloud Cost Analyzer] (https://
 - [ChatOps Bot for Cloud Deployment] (https://
